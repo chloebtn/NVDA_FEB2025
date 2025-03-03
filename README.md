@@ -82,7 +82,7 @@ The wide standard deviation underscores significant uncertainty in Nvidia's futu
 
 
 
-## Next Steps for investors
+## Next Steps for Investors
 1. Monitor the SMA crossover to confirm a potential downtrend.
 2. Assess AI market developments and Nvidia's positioning.
 3. Diversify holdings to mitigate Nvidia-specific risks.
