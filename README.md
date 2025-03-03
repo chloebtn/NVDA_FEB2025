@@ -13,7 +13,7 @@
 ## Trend Analysis with Moving Averages
 ![Moving Averages](image.png)
 
-Over the past two years, Nvidia stock followed a strong uptrend. However, in recent days, the stock price has fallent below both the 50-day and 200-day Simple Moving Averages (SMA). The proximity of these SMAs also suggest a possible bearish crossover, potentially signaling a trend reversal. If the 50-day SMA crosses bellow the 200-day SMA, futher downside pressure may emerge. However, investors should also watch for any false signals and confirm the trend with additional indicators. The stock's reaction to the late February earnings call has been particularly notable, with significant price movements observed in the days following the announcement.
+Over the past two years, Nvidia stock followed a strong uptrend. However, in recent days, the stock price has fallen below both the 50-day and 200-day Simple Moving Averages (SMA). The proximity of these SMAs also suggest a possible bearish crossover, potentially signaling a trend reversal. If the 50-day SMA crosses bellow the 200-day SMA, futher downside pressure may emerge. However, investors should also watch for any false signals and confirm the trend with additional indicators. The stock's reaction to the late February earnings call has been particularly notable, with significant price movements observed in the days following the announcement.
 
 ## Momentum and Overbought/Oversold Conditions
 ### MACD Analysis
