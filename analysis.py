@@ -7,7 +7,7 @@ from scipy import stats
 
 # NVDA stock data
 nvda_data = yf.Ticker("NVDA")
-nvda = nvda_data.history(start='2023-03-01', end='2025-03-01')
+nvda = nvda_data.history(start='2023-03-03', end='2025-03-04')
 
 # Benchmark data
 nasdaq_data = yf.Ticker("^NDX")
