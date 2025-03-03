@@ -55,7 +55,7 @@ Given the statistically significant p-value, Nvidia's daily returns deviate from
 ### Drawdown Analysis
 ![Drawdowns](image-5.png)
 
-Nvidia expereinced frequent and significant drawdowns, with a maximum drawdown of -27.05%. This highlights the stock's high volatility, meaning investors should prepare for sharp price swings.
+Nvidia expereinced frequent and significant drawdowns, with a **maximum drawdown of -27.05%**. This highlights the stock's high volatility, meaning investors should prepare for sharp price swings.
 The period following the earnings announcement showed a significant price movement, contributing to the overall drawdown pattern.
 
 ## Market Outperformance
