@@ -47,7 +47,7 @@ Historically, Nvidia's stock has often been considered ouverbought, frequently e
 Given the statistically significant p-value, Nvidia's daily returns deviate from a normal distribution, suggesting possible market inefienciencies or external factors driving the stock's performance.
 
 ## Risk and Performance Metrics
-### Annualized Performance Metruics
+### Annualized Performance Metrics
 * **Annualized Returns:** 93.94%
 * **Annualized Volatility:** 51.32%
 * **Sharpe Ratio:** 1.8304 (indicating strong risk-adjusted returns)
@@ -55,7 +55,7 @@ Given the statistically significant p-value, Nvidia's daily returns deviate from
 ### Drawdown Analysis
 ![Drawdowns](image-5.png)
 
-Nvidia expereinced frequent and significant drawdowns, with a **maximum drawdown of -27.05%**. This highlights the stock's high volatility, meaning investors should prepare for sharp price swings.
+Nvidia experienced frequent and significant drawdowns, with a **maximum drawdown of -27.05%**. This highlights the stock's high volatility, meaning investors should prepare for sharp price swings.
 The period following the earnings announcement showed a significant price movement, contributing to the overall drawdown pattern.
 
 ## Market Outperformance
